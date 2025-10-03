@@ -1,10 +1,36 @@
-- 👋 Hi, I’m Amna
-- 👀 I’m interested in Data Sciences.
-- 🌱 I’m currently learning statistics for data sciences and data analytics in University of the Punjab,Lahore.
-- 💞️ I’m looking to collaborate on open source projects.
-- 📫 How to reach me:
-- ⚫Contact me via email: amna44627@gmail.com
-<!---
-Amnacoder-hub/Amnacoder-hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi there 👋, I'm Amna  
+
+🎯 **Aspiring Data Scientist | Lifelong Learner | Open-Source Enthusiast**  
+
+---
+
+## 👩‍💻 About Me  
+- 👀 I’m deeply interested in **Data Science, Analytics, and AI**.  
+- 🌱 Currently learning **Statistics for Data Science** & **Data Analytics** at **University of the Punjab, Lahore**.  
+- 💞️ Looking to **collaborate on open-source projects**, especially in data science and analytics.  
+- 📫 How to reach me: **[amna44627@gmail.com](mailto:amna44627@gmail.com)**  
+
+---
+
+## 🚀 Skills & Tools  
+- **Languages**: Python, R (learning)  
+- **Data**: Pandas, NumPy, Matplotlib, Seaborn  
+- **Machine Learning**: Scikit-learn (beginner level)  
+- **Other Tools**: Git, Jupyter Notebook, SQL (learning)  
+
+---
+
+## 🌐 Connect with Me  
+- ✉️ Email: [amna44627@gmail.com](mailto:amna44627@gmail.com)  
+- 💼 LinkedIn: [Add your LinkedIn link here](https://www.linkedin.com/in/amna-08302133b/)
+ 
+
+---
+
+## 📊 GitHub Stats  
+![Amna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)  
+
+---
+
+✨ *“Data is the new oil, and I’m here to refine it into insights.”*  
