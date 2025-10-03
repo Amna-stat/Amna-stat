@@ -22,7 +22,7 @@
 
 ## 🌐 Connect with Me  
 - ✉️ Email: [amna44627@gmail.com](mailto:amna44627@gmail.com)  
-- 💼 LinkedIn: [Add your LinkedIn link here](https://www.linkedin.com/in/amna-08302133b/)
+- 💼 LinkedIn: [https://www.linkedin.com/in/amna-08302133b/](https://www.linkedin.com/in/amna-08302133b/)
  
 
 ---
