@@ -16,7 +16,7 @@
 - **Languages**: Python, R (learning)  
 - **Data**: Pandas, NumPy, Matplotlib, Seaborn  
 - **Machine Learning**: Scikit-learn (beginner level)  
-- **Other Tools**: Git, Jupyter Notebook, SQL (learning)  
+- **Other Tools**: Git/GitHub, Jupyter Notebook, Google Colab  
 
 ---
 
